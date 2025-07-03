@@ -46,13 +46,3 @@ Este repositório tem como objetivo reunir códigos, anotações, exercícios e 
 - Git para versionamento
 
 ---
-
-## 📂 Estrutura de pastas
-
-```bash
-estudos-java/
-├── fundamentos/
-├── poo/
-├── avancado/
-├── projetos/
-└── README.md
